@@ -21,7 +21,8 @@
     "content_scripts": [
         {
             "matches": [
-                "*://www.coursera.org/*"
+                "*://www.coursera.org/*",
+                "*://learn.deeplearning.ai/*"
             ],
             "js": [
                 "content.js"
@@ -34,6 +35,7 @@
         "scripting"
     ],
     "host_permissions": [
-        "*://www.coursera.org/*"
+        "*://www.coursera.org/*",
+        "*://learn.deeplearning.ai/*"
     ]
 }

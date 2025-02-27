@@ -1,18 +1,24 @@
-# Coursera Subtitle Translator
+# Coursera & Deeplearning.ai Subtitle Translator
 
 <div align="center">
   <img src="icons/icon.png" alt="Extension Icon" width="100"/>
 </div>
 
-Coursera Subtitle Translator là một tiện ích mở rộng Chrome giúp dịch phụ đề tiếng Anh trong các khóa học Coursera sang ngôn ngữ bạn chọn. Sử dụng Google Translate API để cung cấp bản dịch chất lượng và trải nghiệm học tập tốt hơn.
+Đây là một tiện ích mở rộng Chrome giúp dịch phụ đề tiếng Anh trong các khóa học trên Coursera và Deeplearning.ai sang tiếng Việt. Sử dụng Google Translate API để cung cấp bản dịch chất lượng và trải nghiệm học tập tốt hơn.
 
 ## ✨ Tính năng
 
-- 🌐 Hỗ trợ nhiều ngôn ngữ (Tiếng Việt, Trung, Nhật, Hàn, ...)
+- 🌐 Hỗ trợ dịch sang tiếng Việt
+- 🎯 Hỗ trợ hai nền tảng học trực tuyến:
+  - Coursera.org
+  - Deeplearning.ai
 - ⚡ Dịch phụ đề theo thời gian thực
-- 🎯 Giao diện người dùng đơn giản, dễ sử dụng
-- 🌓 Hỗ trợ chế độ tối (Dark mode)
 - 🔄 Tự động phát hiện và xử lý phụ đề
+- 💾 Cache bản dịch để tăng tốc độ hiển thị
+- 🎨 Giao diện người dùng thân thiện:
+  - Icon dịch tích hợp trong player video
+  - Dễ dàng bật/tắt chức năng dịch
+  - Hiển thị phụ đề mượt mà
 
 ## 🚀 Cài đặt
 
@@ -31,11 +37,10 @@ Coursera Subtitle Translator là một tiện ích mở rộng Chrome giúp dị
 
 ## 📖 Hướng dẫn sử dụng
 
-1. Mở video bài giảng trên Coursera
-2. Click vào icon extension trên thanh công cụ
-3. Chọn ngôn ngữ muốn dịch
-4. Nhấn "Translate Subtitles"
-5. Phụ đề sẽ được dịch tự động
+1. Mở video bài giảng trên Coursera hoặc Deeplearning.ai
+2. Tìm icon 🌐 ở góc phải trên của video player
+3. Click vào icon để bật/tắt chức năng dịch
+4. Phụ đề sẽ được dịch tự động sang tiếng Việt
 
 ## 🛠️ Công nghệ sử dụng
 
@@ -46,10 +51,10 @@ Coursera Subtitle Translator là một tiện ích mở rộng Chrome giúp dị
 
 ## 📸 Ảnh minh họa
 
-### Giao diện Extension
+### Giao diện Extension trên Coursera
 ![Extension Interface](images/extension.png)
 
-### Ví dụ phụ đề đã dịch
+### Giao diện Extension trên Deeplearning.ai
 ![Translated Subtitles](images/example-image.png)
 
 ## 🤝 Đóng góp
@@ -67,3 +72,4 @@ Dự án này được phân phối dưới giấy phép MIT. Xem `LICENSE` đ�
 
 Nếu bạn thấy dự án hữu ích, hãy:
 - ⭐ Star dự án trên GitHub
+- 📢 Chia sẻ với bạn bè đang học trên Coursera hoặc Deeplearning.ai
